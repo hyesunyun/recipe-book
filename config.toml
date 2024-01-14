@@ -1,5 +1,6 @@
 baseURL = "https://hyesunyun.github.io/recipe-book/"
 relativeURLs = true
+canonifyurls = true
 languageCode = "en-us"
 title = "Bison's Recipe Book"
 theme = "recipes"
