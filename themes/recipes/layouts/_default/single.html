@@ -19,9 +19,17 @@
       </div>
       <div style="margin-top: 1em;">
         <span class="tag is-primary is-light">{{ .Params.Time }}</span>
+        <span class="tag is-link is-light">{{ .Params.Servings }}</span>
         {{ range .Params.Tags }}
-        <a class="tag" href="/tags/{{ . }}">{{ . }}</a>
+          {{ if in . "spicy"}}
+            <a class="tag is-danger is-light" href="/tags/{{ . }}">{{ . }}</a>
+          {{ else }}
+            <a class="tag" href="/tags/{{ . }}">{{ . }}</a>
+          {{ end }}
         {{ end }}
+      </div>
+      <div style="margin-top: 1em;">
+        <p><strong><a href="{{ .Params.Source }}" target="_blank">Source</a></strong></p>
       </div>
     </header>
     <div class="content" style="margin-top: 1em;">

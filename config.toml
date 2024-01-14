@@ -1,8 +1,8 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://bisonrecipebook.netlify.com/"
 languageCode = "en-us"
-title = "Jason's Recipe Book"
+title = "Bison's Recipe Book"
 theme = "recipes"
 
 [params]
-  author = "Jason Rametta"
-  description = "Jason's Recipe Book"
+  author = "Bison Yun"
+  description = "Bison's Recipe Book"

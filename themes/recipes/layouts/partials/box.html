@@ -6,14 +6,25 @@
     </figure>
     {{ end }}
     <div>
-      <div>{{ .Title }}</div>
+      <div>{{ .Title }}
+        {{ range .Params.Tags }}
+          {{ if in . "spicy"}}
+            <span class="icon has-text-danger">
+              <i class="fas fa-pepper-hot"></i>
+            </span>
+          {{ end }}
+        {{ end }}
+      </div>
       <small class="has-text-grey">{{ .Summary }}</small>
     </div>
   </div>
   <div style="margin-top: 0.5em;">
     <span class="tag is-primary is-light">{{ .Params.Time }}</span>
+    <span class="tag is-link is-light">{{ .Params.Servings }}</span>
     {{ range .Params.Tags }}
-    <span class="tag">{{ . }}</span>
+      {{ if not (in . "spicy")}}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
     {{ end }}
   </div>
 </a>

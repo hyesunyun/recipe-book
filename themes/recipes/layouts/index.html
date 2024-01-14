@@ -5,7 +5,11 @@
       <div class="column">
         <div style="margin-bottom: 1em;">
           {{ range .Site.Taxonomies.tags }}
-          <a class="tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+            {{ if in .Page.Title "spicy"}}
+              <a class="tag is-danger is-light" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+            {{ else }}
+              <a class="tag" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+            {{ end }}
           {{ end }}
         </div>
       </div>
