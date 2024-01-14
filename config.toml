@@ -1,4 +1,4 @@
-baseURL = "https://bisonrecipebook.netlify.com/"
+baseURL = "https://hyesunyun.github.io/recipe-book/"
 languageCode = "en-us"
 title = "Bison's Recipe Book"
 theme = "recipes"
