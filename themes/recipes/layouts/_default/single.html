@@ -28,9 +28,11 @@
           {{ end }}
         {{ end }}
       </div>
-      <div style="margin-top: 1em;">
-        <p><strong><a href="{{ .Params.Source }}" target="_blank">Source</a></strong></p>
-      </div>
+      {{ with .Params.Source }}
+        <div style="margin-top: 1em;">
+          <p><strong><a href="{{ .Params.Source }}" target="_blank">Source</a></strong></p>
+        </div>
+      {{ end }}
     </header>
     <div class="content" style="margin-top: 1em;">
       {{ .Content }}
