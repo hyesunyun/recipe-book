@@ -4,7 +4,7 @@ description: "Easy Korean Seafood Scallion Pancake"
 summary: "Uses Korean pancake mix"
 date: 2023-01-14T10:35:45-05:00
 draft: false
-time: "45m"
+time: "30m"
 servings: "6"
 tags: ["korean", "seafood", "pancake"]
 featured_image: "/seafoodscallionpancake.png"
