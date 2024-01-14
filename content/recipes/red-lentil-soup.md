@@ -5,11 +5,13 @@ summary: "Based on a Turkish lentil soup, mercimek corbasi"
 date: 2023-01-13T23:11:45-05:00
 draft: false
 time: "45m"
-servings: "4 servings"
+servings: "4"
 tags: ["nyt", "soup", "lentil"]
 featured_image: "/redlentilsoup.jpeg"
 source: "https://cooking.nytimes.com/recipes/1016062-red-lentil-soup"
 ---
+
+Makes 4 servings.
 
 ## Ingredients
 
