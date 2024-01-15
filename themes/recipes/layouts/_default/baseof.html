@@ -3,6 +3,34 @@
 {{- partial "head.html" . -}}
 
 <body>
+    <script src="/js/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#363636'
+      })</script>
+
+    <script>
+        var searchIndexData = [];
+            // fetch on page load from the search index
+            let json_path = window.location.origin + '/recipe-book/index.json'
+        
+            fetch(json_path).then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                searchIndexData = data;
+            })
+            .catch(function (err) {
+                console.log(err)
+            });
+
+        function sendToRandomArticle() {
+            let randIndex = Math.floor(Math.random() * searchIndexData.length);
+            let randArticle = searchIndexData[randIndex]['permalink'] + '?utm_source=RandomButton';
+            window.location.href = randArticle;
+        }
+   
+   </script>
+
     {{- partial "header.html" . -}}
     <main role="main">
         {{- block "main" . }}{{- end }}

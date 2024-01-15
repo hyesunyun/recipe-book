@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nyt on Bison&#39;s Recipe Book</title>
+    <link>https://hyesunyun.github.io/recipe-book/tags/nyt/</link>
+    <description>Recent content in nyt on Bison&#39;s Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2023 23:11:45 -0500</lastBuildDate>
+    <atom:link href="https://hyesunyun.github.io/recipe-book/tags/nyt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NYT Red Lentil Soup</title>
+      <link>https://hyesunyun.github.io/recipe-book/recipes/red-lentil-soup/</link>
+      <pubDate>Fri, 13 Jan 2023 23:11:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/recipes/red-lentil-soup/</guid>
+      <description>Based on a Turkish lentil soup, mercimek corbasi</description>
+    </item>
+  </channel>
+</rss>

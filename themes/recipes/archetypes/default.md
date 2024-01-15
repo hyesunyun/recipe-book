@@ -4,4 +4,7 @@ date = {{ .Date }}
 tags = []
 featured_image = ""
 description = ""
+time = ""
+servings = ""
+source = ""
 +++

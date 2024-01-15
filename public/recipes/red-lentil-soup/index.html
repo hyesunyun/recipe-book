@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en" class="has-navbar-fixed-top"><head>
+  <meta charset="utf-8">
+  <title>Bison&#39;s Recipe Book  | NYT Red Lentil Soup</title>
+  <meta name="author" content="Bison Yun">
+  <meta name="description" content="Bison&#39;s Recipe Book">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/bulma-0.8.0.min.css">
+  <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/mystyles.css">
+  <script defer src="https://use.fontawesome.com/releases/v6.5.1/js/all.js"></script>
+  <script src="../../js/custom.js"></script>
+</head>
+<body>
+    <script src="../../js/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#363636'
+      })</script>
+
+    <script>
+        var searchIndexData = [];
+            
+            let json_path = window.location.origin + '/recipe-book/index.json'
+        
+            fetch(json_path).then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                searchIndexData = data;
+            })
+            .catch(function (err) {
+                console.log(err)
+            });
+
+        function sendToRandomArticle() {
+            let randIndex = Math.floor(Math.random() * searchIndexData.length);
+            let randArticle = searchIndexData[randIndex]['permalink'] + '?utm_source=RandomButton';
+            window.location.href = randArticle;
+        }
+   
+   </script><nav class="navbar is-dark is-fixed-top" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="../../">
+      Bison&#39;s Recipe Book
+    </a>
+  </div>
+  <div class="navbar-item">
+    <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
+  </div>
+  
+</nav>
+<main role="main">
+<div class="section">
+  <article class="container">
+    <header>
+      <div class="is-flex">
+        
+        <figure class="image is-96x96" style="margin-right: 0.5em;">
+          <img alt="/redlentilsoup.jpeg" class="is-rounded" src="../../redlentilsoup.jpeg" />
+        </figure>
+        
+        <div>
+          <h1 class="title is-1">
+            NYT Red Lentil Soup
+          </h1>
+          <h6 class="subtitle is-6">
+            Based on a Turkish lentil soup, mercimek corbasi
+          </h6>
+        </div>
+      </div>
+      <div style="margin-top: 1em;">
+        <span class="tag is-primary is-light">45m</span>
+        <span class="tag is-link is-light">4</span>
+        
+          
+            <a class="tag" href="../../tags/nyt">nyt</a>
+          
+        
+          
+            <a class="tag" href="../../tags/soup">soup</a>
+          
+        
+          
+            <a class="tag" href="../../tags/lentil">lentil</a>
+          
+        
+      </div>
+      
+        <div style="margin-top: 1em;">
+          <p><strong><a href="https://cooking.nytimes.com/recipes/1016062-red-lentil-soup" target="_blank">Source</a></strong></p>
+        </div>
+      
+    </header>
+    <div class="content" style="margin-top: 1em;">
+      <p>Makes 4 servings.</p>
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+<li>3 Tbsp olive oil</li>
+<li>1 large onion, chopped</li>
+<li>4 garlic cloves, minced<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li>1 Tbsp tomato paste</li>
+<li>1 tsp ground cumin</li>
+<li>1/4 tsp ground black pepper</li>
+<li>1/2 tsp ground chile powder or cayenne pepper, more to taste<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+<li>1 quart of chicken or vegetable stock (leaving out the added 2 cups of water from original recipe<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>)</li>
+<li>1 cup red lentils</li>
+<li>2~3 large carrots, peeled &amp; diced</li>
+<li>salt to taste</li>
+<li>juice of 1/2~1 lemon</li>
+<li>3 Tbsp chopped fresh cilantro</li>
+</ul>
+<h2 id="directions">Directions</h2>
+<ol>
+<li>In a large pot, heat 3 Tbsp olive oil over high heat until shimmering. Add onion and garlic. Saute until golden, about 4 min.</li>
+<li>Stir in tomato paste, cumin,  black pepper, and chile powder. Saute another 2 min.</li>
+<li>Add stock, lentils, and carrot. Bring to simmer, then cover and turn heat to medium-low. Simmer until lentils are soft, about 30 min. Taste and add salt if needed.</li>
+<li>Puree soup with immersion blender. Don&rsquo;t over-blend: soup should be somewhat chunky.</li>
+<li>Stir in lemon juice and cilantro.</li>
+</ol>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>doubled values, not originals&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>adding a little more than original recipe&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>used stock and not broth; left out the water&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+    </div>
+  </article>
+</div>
+
+    </main><footer class="footer">
+    <div class="content has-text-centered is-small">
+        <p>Using <a href="https://github.com/rametta/recipe-book" target="_blank">Hugo Recipe Book Theme</a> by Jason
+            Rametta and <a href="https://bulma.io/" target="_blank">Bulma CSS</a></p>
+    </div>
+</footer></body>
+
+</html>

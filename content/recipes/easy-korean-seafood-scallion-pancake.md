@@ -36,7 +36,7 @@ Makes about 5-6 pancakes depending on size.
 1. Wash and prepare all the pancake batter ingredients (veggies and seafood).
 2. In a bowl, combine the Korean pancake mix and water together. Whisk together until there are no clumps.
 3. Mix in the chopped seafood and vegetables to the batter.
-4. On Medium High heat, add 2-3 tbsp cooking oil. When heated, pour a small amount of batter. Just create your desired size/shape! Lower the heat depending on how the pancake is doing.
+4. On Medium High heat, add 2-3 Tbsp cooking oil. When heated, pour a small amount of batter. Just create your desired size/shape! Lower the heat depending on how the pancake is doing.
 5. Continue with the remaining batter and be generous with the oil. Having enough oil is key to a crispy pancake!
 6. Make the dipping sauce by mixing all the ingredients together.
 

@@ -9,3 +9,6 @@ theme = "recipes"
 [params]
   author = "Bison Yun"
   description = "Bison's Recipe Book"
+
+[outputs]
+  home = ["json", "html"]

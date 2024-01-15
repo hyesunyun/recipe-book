@@ -34,7 +34,7 @@ Makes 4 servings.
 1. In a large pot, heat 3 Tbsp olive oil over high heat until shimmering. Add onion and garlic. Saute until golden, about 4 min.
 2. Stir in tomato paste, cumin,  black pepper, and chile powder. Saute another 2 min.
 3. Add stock, lentils, and carrot. Bring to simmer, then cover and turn heat to medium-low. Simmer until lentils are soft, about 30 min. Taste and add salt if needed.
-4. Puree soup with immersion blender. Don't over-blend: soupd should be somewhat chunky.
+4. Puree soup with immersion blender. Don't over-blend: soup should be somewhat chunky.
 5. Stir in lemon juice and cilantro.
 
 [^1]: doubled values, not originals

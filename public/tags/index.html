@@ -12,12 +12,43 @@
   <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/bulma-0.8.0.min.css">
   <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/mystyles.css">
   <script defer src="https://use.fontawesome.com/releases/v6.5.1/js/all.js"></script>
+  <script src="../js/custom.js"></script>
 </head>
-<body><nav class="navbar is-dark is-fixed-top" role="navigation" aria-label="main navigation">
+<body>
+    <script src="../js/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#363636'
+      })</script>
+
+    <script>
+        var searchIndexData = [];
+            
+            let json_path = window.location.origin + '/recipe-book/index.json'
+        
+            fetch(json_path).then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                searchIndexData = data;
+            })
+            .catch(function (err) {
+                console.log(err)
+            });
+
+        function sendToRandomArticle() {
+            let randIndex = Math.floor(Math.random() * searchIndexData.length);
+            let randArticle = searchIndexData[randIndex]['permalink'] + '?utm_source=RandomButton';
+            window.location.href = randArticle;
+        }
+   
+   </script><nav class="navbar is-dark is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="../">
       Bison&#39;s Recipe Book
     </a>
+  </div>
+  <div class="navbar-item">
+    <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
   </div>
   
 </nav>
