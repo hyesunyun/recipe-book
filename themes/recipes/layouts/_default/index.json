@@ -1,16 +1,1 @@
-{
-    {- $.Scratch.Add "index" slice -
-    }
-} {
-    {- range where site.RegularPages "Type""in" site.Params.mainSections -
-    }
-} {
-    {- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "description" .Params.description "contents" .Plain "permalink" .Permalink) -
-    }
-} {
-    {- end -
-    }
-} {
-    {- $.Scratch.Get "index" | jsonify -
-    }
-}
+{{- $.Scratch.Add "index" slice -}} {{- range where site.RegularPages "Type" "in" site.Params.mainSections -}} {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "description" .Params.description "contents" .Plain "permalink" .Permalink) -}} {{- end -}} {{- $.Scratch.Get "index" | jsonify -}}
