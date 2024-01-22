@@ -1,0 +1,12 @@
+<form id="search"
+    action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' method="get">
+    <label hidden for="search-input">Search recipe</label>
+    <div class="field is-grouped">
+        <p class="control is-expanded">
+            <input class="input is-rounded" type="text" placeholder="Search recipes" id="search-input" name="query">
+        </p>
+        <p class="control">
+            <input class="button is-info is-rounded" type="submit" value="search">
+        </p>
+    </div>
+</form>

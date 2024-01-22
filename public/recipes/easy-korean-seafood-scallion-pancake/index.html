@@ -45,12 +45,69 @@
     <a class="navbar-item" href="../../">
       Bison&#39;s Recipe Book
     </a>
-  </div>
-  <div class="navbar-item">
-    <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
+    <div class="navbar-burger"  data-target="navbar-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
   </div>
   
+  <div class="navbar-menu" id="navbar-menu">
+    
+    <div class="navbar-start">
+      <div class="navbar-item has-dropdown is-hoverable">
+        <div class="navbar-item">
+          <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
+        </div>
+      </div>
+    </div>
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <form id="search"
+    action='' method="get">
+    <label hidden for="search-input">Search recipe</label>
+    <div class="field is-grouped">
+        <p class="control is-expanded">
+            <input class="input is-rounded" type="text" placeholder="Search recipes" id="search-input" name="query">
+        </p>
+        <p class="control">
+            <input class="button is-info is-rounded" type="submit" value="search">
+        </p>
+    </div>
+</form>
+
+      </div>
+    </div>
+  </div>
 </nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+
+    
+    var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+    
+    if ($navbarBurgers.length > 0) {
+
+      
+      $navbarBurgers.forEach(function ($el) {
+        $el.addEventListener('click', function () {
+
+          
+          var target = $el.dataset.target;
+          var $target = document.getElementById(target);
+
+          
+          $el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+
+        });
+      });
+    }
+
+  });
+</script>
 <main role="main">
 <div class="section">
   <article class="container">
@@ -138,6 +195,35 @@
         <p>Using <a href="https://github.com/rametta/recipe-book" target="_blank">Hugo Recipe Book Theme</a> by Jason
             Rametta and <a href="https://bulma.io/" target="_blank">Bulma CSS</a></p>
     </div>
+    <script>
+
+const indexJsonPath = window.location.origin + '/recipe-book/index.json';
+
+fetch(indexJsonPath).then(function (response) {
+    return response.json();
+})
+.then(function (data) {
+    let newFormattedSearchIndexData = {};
+    data.forEach(item => {
+        const itemObject = {
+            "title": item.title,
+            "tags": item.tags,
+            "content": item.contents, 
+            "url": item.permalink,
+            "description": item.description
+        };
+        newFormattedSearchIndexData[item.permalink] = itemObject;
+    });
+    window.store = newFormattedSearchIndexData;
+})
+.catch(function (err) {
+    console.log(err)
+});
+
+</script>
+
+<script src="../../js/lunr.min.js"></script>
+<script src="../../js/search.js"></script>
 </footer></body>
 
 </html>
