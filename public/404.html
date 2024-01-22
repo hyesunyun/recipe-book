@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/bulma-0.8.0.min.css">
   <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/mystyles.css">
   <script defer src="https://use.fontawesome.com/releases/v6.5.1/js/all.js"></script>
+  <script src="./js/lunr.min.js"></script>
 </head>
 <body>
     <script src="./js/vanilla-back-to-top.min.js"></script>
@@ -61,23 +62,7 @@
         </div>
       </div>
     </div>
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <form id="search"
-    action='' method="get">
-    <label hidden for="search-input">Search recipe</label>
-    <div class="field is-grouped">
-        <p class="control is-expanded">
-            <input class="input is-rounded" type="text" placeholder="Search recipes" id="search-input" name="query">
-        </p>
-        <p class="control">
-            <input class="button is-info is-rounded" type="submit" value="search">
-        </p>
-    </div>
-</form>
-
-      </div>
-    </div>
+    
   </div>
 </nav>
 
@@ -134,35 +119,6 @@
         <p>Using <a href="https://github.com/rametta/recipe-book" target="_blank">Hugo Recipe Book Theme</a> by Jason
             Rametta and <a href="https://bulma.io/" target="_blank">Bulma CSS</a></p>
     </div>
-    <script>
-
-const indexJsonPath = window.location.origin + '/recipe-book/index.json';
-
-fetch(indexJsonPath).then(function (response) {
-    return response.json();
-})
-.then(function (data) {
-    let newFormattedSearchIndexData = {};
-    data.forEach(item => {
-        const itemObject = {
-            "title": item.title,
-            "tags": item.tags,
-            "content": item.contents, 
-            "url": item.permalink,
-            "description": item.description
-        };
-        newFormattedSearchIndexData[item.permalink] = itemObject;
-    });
-    window.store = newFormattedSearchIndexData;
-})
-.catch(function (err) {
-    console.log(err)
-});
-
-</script>
-
-<script src="./js/lunr.min.js"></script>
-<script src="./js/search.js"></script>
 </footer></body>
 
 </html>

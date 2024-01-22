@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oven on Bison&#39;s Recipe Book</title>
+    <link>https://hyesunyun.github.io/recipe-book/tags/oven/</link>
+    <description>Recent content in oven on Bison&#39;s Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jan 2023 23:11:45 -0500</lastBuildDate>
+    <atom:link href="https://hyesunyun.github.io/recipe-book/tags/oven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crispy Baked Tofu</title>
+      <link>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</link>
+      <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</guid>
+      <description>Crispy baked tofu to add as a side dish</description>
+    </item>
+  </channel>
+</rss>

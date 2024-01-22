@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/bulma-0.8.0.min.css">
   <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/mystyles.css">
   <script defer src="https://use.fontawesome.com/releases/v6.5.1/js/all.js"></script>
+  <script src="./js/lunr.min.js"></script>
 </head>
 <body>
     <script src="./js/vanilla-back-to-top.min.js"></script>
@@ -62,23 +63,7 @@
         </div>
       </div>
     </div>
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <form id="search"
-    action='' method="get">
-    <label hidden for="search-input">Search recipe</label>
-    <div class="field is-grouped">
-        <p class="control is-expanded">
-            <input class="input is-rounded" type="text" placeholder="Search recipes" id="search-input" name="query">
-        </p>
-        <p class="control">
-            <input class="button is-info is-rounded" type="submit" value="search">
-        </p>
-    </div>
-</form>
-
-      </div>
-    </div>
+    
   </div>
 </nav>
 
@@ -117,7 +102,19 @@
         <div style="margin-bottom: 1em;">
           
             
+              <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/bars/">bars</a>
+            
+          
+            
+              <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/dessert/">dessert</a>
+            
+          
+            
               <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/korean/">korean</a>
+            
+          
+            
+              <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/lemon/">lemon</a>
             
           
             
@@ -126,6 +123,10 @@
           
             
               <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/nyt/">nyt</a>
+            
+          
+            
+              <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/oven/">oven</a>
             
           
             
@@ -141,6 +142,14 @@
             
           
             
+              <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/strawberry/">strawberry</a>
+            
+          
+            
+              <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/tofu/">tofu</a>
+            
+          
+            
               <a class="tag" href="https://hyesunyun.github.io/recipe-book/tags/vegan/">vegan</a>
             
           
@@ -150,6 +159,112 @@
 
     <div class="columns is-centered">
       <div class="column">
+        
+          <a class="box" href="https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/" aria-label="Crispy Baked Tofu">
+  <div class="is-flex">
+    
+    <figure class="image is-48x48" style="margin-right: 0.5em;">
+      <img alt="/crispybakedtofu.jpg" class="is-rounded" src="./crispybakedtofu.jpg" />
+    </figure>
+    
+    <div>
+      <div>Crispy Baked Tofu
+        
+          
+        
+          
+        
+          
+        
+      </div>
+      <small class="has-text-grey">Crispy baked tofu to add as a side dish</small>
+    </div>
+  </div>
+  <div style="margin-top: 0.5em;">
+    <span class="tag is-primary is-light">40m</span>
+    <span class="tag is-link is-light">4</span>
+    
+      
+        <span class="tag">oven</span>
+      
+    
+      
+        <span class="tag">tofu</span>
+      
+    
+      
+        <span class="tag">vegan</span>
+      
+    
+  </div>
+</a>
+        
+          
+        
+          
+        
+          
+        
+      </div>
+      <div class="column">
+        
+          
+        
+          <a class="box" href="https://hyesunyun.github.io/recipe-book/recipes/strawberry-lemonade-bar/" aria-label="Strawberry Lemonade Bars">
+  <div class="is-flex">
+    
+    <figure class="image is-48x48" style="margin-right: 0.5em;">
+      <img alt="/strawberrylemonadebar.jpeg" class="is-rounded" src="./strawberrylemonadebar.jpeg" />
+    </figure>
+    
+    <div>
+      <div>Strawberry Lemonade Bars
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+      <small class="has-text-grey">Refreshing, easy dessert</small>
+    </div>
+  </div>
+  <div style="margin-top: 0.5em;">
+    <span class="tag is-primary is-light">60m</span>
+    <span class="tag is-link is-light">24</span>
+    
+      
+        <span class="tag">bars</span>
+      
+    
+      
+        <span class="tag">strawberry</span>
+      
+    
+      
+        <span class="tag">lemon</span>
+      
+    
+      
+        <span class="tag">dessert</span>
+      
+    
+  </div>
+</a>
+        
+          
+        
+          
+        
+      </div>
+      <div class="column">
+        
+          
+        
+          
         
           <a class="box" href="https://hyesunyun.github.io/recipe-book/recipes/easy-korean-seafood-scallion-pancake/" aria-label="Easy Korean Seafood Scallion Pancake">
   <div class="is-flex">
@@ -194,6 +309,10 @@
         
       </div>
       <div class="column">
+        
+          
+        
+          
         
           
         
@@ -243,20 +362,6 @@
 </a>
         
       </div>
-      <div class="column">
-        
-          
-        
-          
-        
-      </div>
-      <div class="column">
-        
-          
-        
-          
-        
-      </div>
     </div>
   </div>
 </section>
@@ -266,35 +371,6 @@
         <p>Using <a href="https://github.com/rametta/recipe-book" target="_blank">Hugo Recipe Book Theme</a> by Jason
             Rametta and <a href="https://bulma.io/" target="_blank">Bulma CSS</a></p>
     </div>
-    <script>
-
-const indexJsonPath = window.location.origin + '/recipe-book/index.json';
-
-fetch(indexJsonPath).then(function (response) {
-    return response.json();
-})
-.then(function (data) {
-    let newFormattedSearchIndexData = {};
-    data.forEach(item => {
-        const itemObject = {
-            "title": item.title,
-            "tags": item.tags,
-            "content": item.contents, 
-            "url": item.permalink,
-            "description": item.description
-        };
-        newFormattedSearchIndexData[item.permalink] = itemObject;
-    });
-    window.store = newFormattedSearchIndexData;
-})
-.catch(function (err) {
-    console.log(err)
-});
-
-</script>
-
-<script src="./js/lunr.min.js"></script>
-<script src="./js/search.js"></script>
 </footer></body>
 
 </html>
