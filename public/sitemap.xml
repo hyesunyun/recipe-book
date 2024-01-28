@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyesunyun.github.io/recipe-book/tags/bars/</loc>
-    <lastmod>2023-01-21T23:11:45-05:00</lastmod>
-  </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/</loc>
+    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/tags/peanut/</loc>
+    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</loc>
+    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/recipes/</loc>
+    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/tags/sauce/</loc>
+    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/tags/</loc>
+    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/tags/bars/</loc>
     <lastmod>2023-01-21T23:11:45-05:00</lastmod>
   </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</loc>
@@ -20,16 +35,10 @@
     <loc>https://hyesunyun.github.io/recipe-book/tags/oven/</loc>
     <lastmod>2023-01-21T23:11:45-05:00</lastmod>
   </url><url>
-    <loc>https://hyesunyun.github.io/recipe-book/recipes/</loc>
-    <lastmod>2023-01-21T23:11:45-05:00</lastmod>
-  </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/tags/strawberry/</loc>
     <lastmod>2023-01-21T23:11:45-05:00</lastmod>
   </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/recipes/strawberry-lemonade-bar/</loc>
-    <lastmod>2023-01-21T23:11:45-05:00</lastmod>
-  </url><url>
-    <loc>https://hyesunyun.github.io/recipe-book/tags/</loc>
     <lastmod>2023-01-21T23:11:45-05:00</lastmod>
   </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/tags/tofu/</loc>

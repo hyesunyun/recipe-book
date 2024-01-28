@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en" class="has-navbar-fixed-top"><head>
+  <meta charset="utf-8">
+  <title>Bison&#39;s Recipe Book  | Peanut Sauce for Fresh Spring Rolls</title>
+  <meta name="author" content="Bison Yun">
+  <meta name="description" content="Bison&#39;s Recipe Book">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/bulma-0.8.0.min.css">
+  <link rel="stylesheet" href="https://hyesunyun.github.io/recipe-book//css/mystyles.css">
+  <script defer src="https://use.fontawesome.com/releases/v6.5.1/js/all.js"></script>
+  <script src="../../js/lunr.min.js"></script>
+</head>
+<body>
+    <script src="../../js/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#363636'
+      })</script>
+
+    <script>
+        var searchIndexData = [];
+            
+            let json_path = window.location.origin + '/recipe-book/index.json'
+        
+            fetch(json_path).then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                searchIndexData = data;
+            })
+            .catch(function (err) {
+                console.log(err)
+            });
+
+        function sendToRandomArticle() {
+            let randIndex = Math.floor(Math.random() * searchIndexData.length);
+            let randArticle = searchIndexData[randIndex]['permalink'] + '?utm_source=RandomButton';
+            window.location.href = randArticle;
+        }
+   
+   </script><nav class="navbar is-dark is-fixed-top" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="../../">
+      Bison&#39;s Recipe Book
+    </a>
+    <div class="navbar-burger"  data-target="navbar-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  
+  <div class="navbar-menu" id="navbar-menu">
+    
+    <div class="navbar-start">
+      <div class="navbar-item has-dropdown is-hoverable">
+        <div class="navbar-item">
+          <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+
+    
+    var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+    
+    if ($navbarBurgers.length > 0) {
+
+      
+      $navbarBurgers.forEach(function ($el) {
+        $el.addEventListener('click', function () {
+
+          
+          var target = $el.dataset.target;
+          var $target = document.getElementById(target);
+
+          
+          $el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+
+        });
+      });
+    }
+
+  });
+</script>
+<main role="main">
+<div class="section">
+  <article class="container">
+    <header>
+      <div class="is-flex">
+        
+        <figure class="image is-96x96" style="margin-right: 0.5em;">
+          <img alt="/peanutsauce.jpg" class="is-rounded" src="../../peanutsauce.jpg" />
+        </figure>
+        
+        <div>
+          <h1 class="title is-1">
+            Peanut Sauce for Fresh Spring Rolls
+          </h1>
+          <h6 class="subtitle is-6">
+            Delicious sauce for Vietnamese spring rolls
+          </h6>
+        </div>
+      </div>
+      <div style="margin-top: 1em;">
+        <span class="tag is-primary is-light">5m</span>
+        <span class="tag is-link is-light">8-10 rolls</span>
+        
+          
+            <a class="tag" href="../../tags/peanut">peanut</a>
+          
+        
+          
+            <a class="tag" href="../../tags/sauce">sauce</a>
+          
+        
+      </div>
+      
+        <div style="margin-top: 1em;">
+          <p><strong><a href="#ZgotmplZ" target="_blank">Source</a></strong></p>
+        </div>
+      
+    </header>
+    <div class="content" style="margin-top: 1em;">
+      <p>Makes enough for 8-10 rolls</p>
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+<li>1/3 cup creamy peanut butter</li>
+<li>2 Tbsp rice vinegar</li>
+<li>2 Tbsp reduced-sodium tamari or soy sauce</li>
+<li>2 Tbsp honey or maple syrup</li>
+<li>1 Tbsp toasted sesame oil</li>
+<li>2 cloves garlic, pressed or minced</li>
+<li>2 to 3 Tbsp water, as needed</li>
+</ul>
+<h2 id="directions">Directions</h2>
+<ol>
+<li>In a small bowl, whisk together the peanut butter, rice vinegar, tamari, honey, sesame oil, and garlic.</li>
+<li>Whisk in 2 to 3 tablespoons water, as needed to make a super creamy but dip-able sauce.</li>
+<li>Serve the spring rolls with peanut sauce on the side.</li>
+</ol>
+<p><em>MAKE IT GLUTEN FREE</em>: Be sure to use tamari (not soy sauce, which typically contains gluten).</p>
+<p><em>MAKE IT PEANUT FREE</em>: Substitute almond butter (if not avoiding nuts altogether) or sunflower seed butter for the peanut butter.</p>
+
+    </div>
+  </article>
+</div>
+
+    </main><footer class="footer">
+    <div class="content has-text-centered is-small">
+        <p>Using <a href="https://github.com/rametta/recipe-book" target="_blank">Hugo Recipe Book Theme</a> by Jason
+            Rametta and <a href="https://bulma.io/" target="_blank">Bulma CSS</a></p>
+    </div>
+</footer></body>
+
+</html>
