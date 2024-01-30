@@ -6,14 +6,21 @@
     <description>Recent content in Recipes on Bison&#39;s Recipe Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 23:11:45 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 23:11:45 -0500</lastBuildDate>
     <atom:link href="https://hyesunyun.github.io/recipe-book/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Peanut Sauce for Fresh Spring Rolls</title>
+      <title>Tuna Kimchi Jjigae</title>
+      <link>https://hyesunyun.github.io/recipe-book/recipes/tuna-kimchi-jjigae/</link>
+      <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/recipes/tuna-kimchi-jjigae/</guid>
+      <description>Kimchi stew made with special tuna</description>
+    </item>
+    <item>
+      <title>Peanut Sauce for Spring Rolls</title>
       <link>https://hyesunyun.github.io/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</link>
       <pubDate>Fri, 27 Jan 2023 23:11:45 -0500</pubDate>
       <guid>https://hyesunyun.github.io/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</guid>
-      <description>Delicious sauce for Vietnamese spring rolls</description>
+      <description>Delicious sauce for Vietnamese fresh spring rolls</description>
     </item>
     <item>
       <title>Crispy Baked Tofu</title>
