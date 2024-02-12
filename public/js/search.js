@@ -8,12 +8,13 @@ function displayResults (results, store) {
       // This is basically box.html partial.
       // I just don't know how to incorporate it in this way.
       resultList += `<a class="box" href="${item.url}" aria-label="${item.title}">
-      <div class="is-flex">
-        <figure class="image is-48x48" style="margin-right: 0.5em;">
+      <div class="is-flex">`
+      if (item.featured_image) {
+        resultList += `<figure class="image is-48x48" style="margin-right: 0.5em;">
           <img alt="${ ".."+item.featured_image }" class="is-rounded" src="${ ".."+item.featured_image }" />
-        </figure>
-        <div>
-          <div>${item.title}`
+        </figure>`
+      }
+      resultList += `<div><div>${item.title}`
       if ("spicy" in item.tags) {
         resultList += '<span class="icon has-text-danger"><i class="fas fa-pepper-hot"></i></span>'
       }
@@ -26,7 +27,7 @@ function displayResults (results, store) {
         <span class="tag is-link is-light">${item.servings}</span>`
       for (const tag of item.tags) {
         if (tag !== "spicy") {
-          resultList += `<span class="tag">${ tag }</span>`
+          resultList += ` <span class="tag">${ tag }</span>`
         }
       }
       resultList += '</div></a>'
