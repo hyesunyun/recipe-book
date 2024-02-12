@@ -11,7 +11,7 @@ Hosted on Github Pages.
 - [X] Replace donut logo to be bison logo
 - [X] Add button (maybe onion emoji) to randomly choose a recipe
 - [X] Better 404 html page
-- [ ] Search all recipes
+- [X] Search all recipes
 - [X] Add back to top button (https://github.com/vfeskov/vanilla-back-to-top)
 - [ ] Look into advanced ways of filtering beyond tags
 - [ ] Infinite scrolling (fuzzy loading)
