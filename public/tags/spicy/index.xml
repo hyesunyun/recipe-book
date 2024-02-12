@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spicy on Bison&#39;s Recipe Book</title>
+    <link>https://hyesunyun.github.io/recipe-book/tags/spicy/</link>
+    <description>Recent content in spicy on Bison&#39;s Recipe Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jan 2023 23:11:45 -0500</lastBuildDate>
+    <atom:link href="https://hyesunyun.github.io/recipe-book/tags/spicy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuna Kimchi Jjigae</title>
+      <link>https://hyesunyun.github.io/recipe-book/recipes/tuna-kimchi-jjigae/</link>
+      <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/recipes/tuna-kimchi-jjigae/</guid>
+      <description>Kimchi stew made with special tuna</description>
+    </item>
+  </channel>
+</rss>

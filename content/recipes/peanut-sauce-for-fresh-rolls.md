@@ -8,7 +8,7 @@ time: "5m"
 servings: "8-10 rolls"
 tags: ["peanut", "sauce"]
 featured_image: "/peanutsauce.jpg"
-source: "hhttps://cookieandkate.com/fresh-spring-rolls-recipe/"
+source: "https://cookieandkate.com/fresh-spring-rolls-recipe/"
 ---
 
 Makes enough for 8-10 rolls

@@ -9,23 +9,32 @@
       })</script>
 
     <script>
-        var searchIndexData = [];
-            // fetch on page load from the search index
-            let json_path = window.location.origin + '/recipe-book/index.json'
-        
-            fetch(json_path).then(function (response) {
-                return response.json();
-            })
-            .then(function (data) {
-                searchIndexData = data;
-            })
-            .catch(function (err) {
-                console.log(err)
-            });
+        window.store = {
+            // You can specify your blog section only:
+            {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
+            // For all pages in your site, use "range .Site.Pages"
+            // You can use any unique identifier here
+            "{{ .Permalink }}": {
+                // You can customize your searchable fields using any .Page parameters
+                "title": "{{ .Title  }}",
+                "tags": [{{ range .Params.tags }}"{{ . }}",{{ end }}],
+                "content": {{ .Content | plainify }}, // Strip out HTML tags
+                "url": "{{ .Permalink }}",
+                "description": "{{ .Params.description }}",
+                "url": "{{ .Permalink }}",
+                "summary": "{{ .Params.summary }}",
+                "featured_image": "{{ .Params.featured_image }}",
+                "time": "{{ .Params.time }}",
+                "servings": "{{ .Params.servings }}",
+                "featured_image": "{{ .Params.featured_image }}",
+            },
+            {{ end }}
+        }
 
         function sendToRandomArticle() {
-            let randIndex = Math.floor(Math.random() * searchIndexData.length);
-            let randArticle = searchIndexData[randIndex]['permalink'] + '?utm_source=RandomButton';
+            const keys = Object.keys(window.store)
+            let randIndex = Math.floor(Math.random() * keys.length);
+            let randArticle = keys[randIndex] + '?utm_source=RandomButton';
             window.location.href = randArticle;
         }
    

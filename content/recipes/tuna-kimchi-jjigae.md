@@ -6,7 +6,7 @@ date: 2023-01-29T23:11:45-05:00
 draft: false
 time: "30m"
 servings: "2-3"
-tags: ["korean", "kimchi", "stew"]
+tags: ["korean", "kimchi", "stew", "spicy"]
 featured_image: "/tunakimchijjigae.jpeg"
 source: "https://wtable.co.kr/recipes/ynveZVxzRQECJPwJsLQabsiA"
 ---

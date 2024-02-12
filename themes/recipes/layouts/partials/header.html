@@ -3,6 +3,11 @@
     <a class="navbar-item" href="/">
       {{ $.Site.Title }}
     </a>
+    <div class="navbar-item has-dropdown is-hoverable">
+      <div class="navbar-item">
+        <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
+      </div>
+    </div>
     <div class="navbar-burger"  data-target="navbar-menu">
       <span></span>
       <span></span>
@@ -11,19 +16,16 @@
   </div>
   <!-- children of navbar-menu must be navbar-start and/or navbar-end -->
   <div class="navbar-menu" id="navbar-menu">
-    <!-- navbar items | left side -->
-    <div class="navbar-start">
-      <div class="navbar-item has-dropdown is-hoverable">
-        <div class="navbar-item">
-          <button type="button" class="button is-link is-light is-small is-rounded" onclick='sendToRandomArticle()'><p class="is-size-5">&#129477;</p></button>
-        </div>
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <a class="button is-primary is-light is-small is-rounded" href="{{ .Site.BaseURL }}search">
+          <span class="icon">
+            <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+          </span>
+          <span>Search</span>
+        </a>
       </div>
     </div>
-    <!-- <div class="navbar-end">
-      <div class="navbar-item">
-        {{ partial "search-form.html" . }}
-      </div>
-    </div> -->
   </div>
 </nav>
 

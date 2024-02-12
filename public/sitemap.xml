@@ -14,6 +14,9 @@
     <loc>https://hyesunyun.github.io/recipe-book/recipes/</loc>
     <lastmod>2023-01-29T23:11:45-05:00</lastmod>
   </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/tags/spicy/</loc>
+    <lastmod>2023-01-29T23:11:45-05:00</lastmod>
+  </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/tags/stew/</loc>
     <lastmod>2023-01-29T23:11:45-05:00</lastmod>
   </url><url>
@@ -81,5 +84,7 @@
     <lastmod>2023-01-13T23:11:45-05:00</lastmod>
   </url><url>
     <loc>https://hyesunyun.github.io/recipe-book/categories/</loc>
+  </url><url>
+    <loc>https://hyesunyun.github.io/recipe-book/search/</loc>
   </url>
 </urlset>
