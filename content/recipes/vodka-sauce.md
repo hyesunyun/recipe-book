@@ -1,7 +1,7 @@
 ---
 title: "Vodka Sauce"
 description: "with rigatoni"
-summary: "Vodka Sauce with Rigatoni"
+summary: "Vodka Sauce with Rigatoni (option to add sausage)"
 date: 2024-04-22T18:35:45-05:00
 draft: false
 time: "30m"
