@@ -16,7 +16,7 @@ Makes 4 servings. Adapted from https://www.10000recipe.com/recipe/6884636
 ## Ingredients
 
 - 1 cup kimchi
-- 1 package vienna sausages or kielbasa sliced
+- 1 package kielbasa (or vienna sausages)[^1]
 - 1 can spam
 - 1 block of tofu
 - 1 cup sliced rice cakes
@@ -24,8 +24,8 @@ Makes 4 servings. Adapted from https://www.10000recipe.com/recipe/6884636
 - 2 green chillies
 - 1 package enoki mushrooms
 - 1 onion
-- 1 package (500g) beef bone soup (사골곰탕)
-- 1 packet of ramen noodles (only noodles)
+- 1 package (500g) beef bone soup (사골곰탕)[^2]
+- 1 packet of ramen noodles (only noodles)[^3]
 - 2 cups water
 
 ### Sauce Ingredients
@@ -47,3 +47,7 @@ Makes 4 servings. Adapted from https://www.10000recipe.com/recipe/6884636
 5. Let everything boil.
 6. Once the ingredients are cooked, add the ramen noodles and let that cook as well. 
 7. Serve with rice once the ramen noodle seems to be done al dente.
+
+[^1]: I prefer the kielbasa but vienna sausages or anytime of processed sausages are great for this stew!
+[^2]: No worries, if you don't have this. You can just substitute with water. However, the stew is much more flavorful with the bone soup.
+[^3]: Cook the noodles towards the end since they can get mushy and overcooked very easily. I prefer rice cakes over ramen noodles, but the noodles are very iconic.
