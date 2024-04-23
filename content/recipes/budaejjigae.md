@@ -2,7 +2,7 @@
 title: "Korean Army Base Stew"
 description: "부대찌개"
 summary: "Spam and Sausage and much yummy things"
-date: 2024-04-22T20:25:20-05:00
+date: 2024-04-21T20:25:20-05:00
 draft: false
 time: "45m"
 servings: "4"

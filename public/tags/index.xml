@@ -6,34 +6,83 @@
     <description>Recent content in Tags on Bison&#39;s Recipe Book</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jan 2023 23:11:45 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 18:35:45 -0500</lastBuildDate>
     <atom:link href="https://hyesunyun.github.io/recipe-book/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>kimchi</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/kimchi/</link>
-      <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/kimchi/</guid>
+      <title>easy</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/easy/</link>
+      <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/easy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pasta</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/pasta/</link>
+      <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/pasta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vegetarian</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/vegetarian/</link>
+      <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/vegetarian/</guid>
       <description></description>
     </item>
     <item>
       <title>korean</title>
       <link>https://hyesunyun.github.io/recipe-book/tags/korean/</link>
-      <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
+      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
       <guid>https://hyesunyun.github.io/recipe-book/tags/korean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>spam</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/spam/</link>
+      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/spam/</guid>
       <description></description>
     </item>
     <item>
       <title>spicy</title>
       <link>https://hyesunyun.github.io/recipe-book/tags/spicy/</link>
-      <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
+      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
       <guid>https://hyesunyun.github.io/recipe-book/tags/spicy/</guid>
       <description></description>
     </item>
     <item>
       <title>stew</title>
       <link>https://hyesunyun.github.io/recipe-book/tags/stew/</link>
-      <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
+      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
       <guid>https://hyesunyun.github.io/recipe-book/tags/stew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kimchi</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/kimchi/</link>
+      <pubDate>Sun, 21 Apr 2024 20:14:20 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/kimchi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pancake</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/pancake/</link>
+      <pubDate>Sun, 21 Apr 2024 20:14:20 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/pancake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>beef</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/beef/</link>
+      <pubDate>Sun, 21 Apr 2024 19:50:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/beef/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ribs</title>
+      <link>https://hyesunyun.github.io/recipe-book/tags/ribs/</link>
+      <pubDate>Sun, 21 Apr 2024 19:50:45 -0500</pubDate>
+      <guid>https://hyesunyun.github.io/recipe-book/tags/ribs/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +146,6 @@
       <link>https://hyesunyun.github.io/recipe-book/tags/vegan/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
       <guid>https://hyesunyun.github.io/recipe-book/tags/vegan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>pancake</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/pancake/</link>
-      <pubDate>Sat, 14 Jan 2023 10:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/pancake/</guid>
       <description></description>
     </item>
     <item>

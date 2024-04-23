@@ -1,8 +1,8 @@
 ---
-title: "Easy Korean Kimchi Pancake"
+title: "Korean Kimchi Pancake"
 description: "Easy Korean Kimchi Pancake"
 summary: "Uses Korean pancake mix"
-date: 2024-04-22T20:14:20-05:00
+date: 2024-04-21T20:14:20-05:00
 draft: false
 time: "15m"
 servings: "2"

@@ -1,8 +1,8 @@
 ---
 title: "Korean Spicy Braised Short Ribs"
 description: "매운쇠고기갈비찜"
-summary: "A spicy version of the famous Korean braised short ribs"
-date: 2024-04-22T19:50:45-05:00
+summary: "A spicy version of the famous dish"
+date: 2024-04-21T19:50:45-05:00
 draft: false
 time: "120m"
 servings: "4"
