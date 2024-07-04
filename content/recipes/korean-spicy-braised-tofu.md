@@ -6,7 +6,7 @@ date: 2024-07-04T19:50:45-05:00
 draft: false
 time: "30m"
 servings: "4"
-tags: ["korean", "tofu", "spicy"]
+tags: ["korean", "tofu", "spicy", "vegan"]
 featured_image: "/koreanspicytofu.jpg"
 source: "https://m.10000recipe.com/recipe/6891526"
 ---

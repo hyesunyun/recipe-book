@@ -6,7 +6,7 @@ date: 2024-07-04T19:55:45-05:00
 draft: false
 time: "20m"
 servings: "4"
-tags: ["korean", "doenjang", "napa cabbage"]
+tags: ["korean", "doenjang", "cabbage", "vegan"]
 featured_image: "/koreanmisocabbage.jpg"
 source: "https://m.10000recipe.com/recipe/6904476"
 ---

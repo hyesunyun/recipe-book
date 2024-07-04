@@ -6,7 +6,7 @@ date: 2023-01-27T23:11:45-05:00
 draft: false
 time: "5m"
 servings: "8-10 rolls"
-tags: ["peanut", "sauce"]
+tags: ["peanut", "sauce", "vegan"]
 featured_image: "/peanutsauce.jpg"
 source: "https://cookieandkate.com/fresh-spring-rolls-recipe/"
 ---
@@ -18,7 +18,7 @@ Makes enough for 8-10 rolls
 - 1/3 cup creamy peanut butter
 - 2 Tbsp rice vinegar
 - 2 Tbsp reduced-sodium tamari or soy sauce
-- 2 Tbsp honey or maple syrup
+- 2 Tbsp honey or maple syrup (for vegan version)
 - 1 Tbsp toasted sesame oil
 - 2 cloves garlic, pressed or minced
 - 2 to 3 Tbsp water, as needed
