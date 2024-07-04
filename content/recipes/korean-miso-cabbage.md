@@ -2,7 +2,7 @@
 title: "Korean Miso Doenjang Cabbage"
 description: "배추 된장 무침"
 summary: "Super simple napa cabbage side dish"
-date: 2024-07-04T19:55:45-05:00
+date: 2024-07-04T13:55:45-05:00
 draft: false
 time: "20m"
 servings: "4"

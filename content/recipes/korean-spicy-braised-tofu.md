@@ -2,7 +2,7 @@
 title: "Korean Spicy Braised Tofu"
 description: "두부조림"
 summary: "Super easy weekday tofu side dish"
-date: 2024-07-04T19:50:45-05:00
+date: 2024-07-04T13:50:45-05:00
 draft: false
 time: "30m"
 servings: "4"
