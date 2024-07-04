@@ -7,7 +7,7 @@ draft: false
 time: "120m"
 servings: "4"
 tags: ["korean", "ribs", "beef", "spicy"]
-featured_image: "/kroeanspicyshortribs.jpeg"
+featured_image: "/koreanspicyshortribs.jpeg"
 source: "https://wtable.co.kr/recipes/QdmhE3eDSkvt4823BdbSZYXp"
 ---
 
