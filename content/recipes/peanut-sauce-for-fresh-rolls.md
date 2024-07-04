@@ -6,7 +6,7 @@ date: 2023-01-27T23:11:45-05:00
 draft: false
 time: "5m"
 servings: "8-10 rolls"
-tags: ["peanut", "sauce", "vegan"]
+tags: ["peanut", "sauce"]
 featured_image: "/peanutsauce.jpg"
 source: "https://cookieandkate.com/fresh-spring-rolls-recipe/"
 ---
