@@ -6,7 +6,7 @@ date: 2024-09-29T18:35:45-05:00
 draft: false
 time: "15m"
 servings: "4"
-tags: ["salad", "lettuce", "spicy", "korean", "vegetarian"]
+tags: ["salad", "spicy", "korean", "vegetarian"]
 featured_image: "/koreanlettucesalad.jpg"
 source: "https://drivemehungry.com/korean-lettuce-salad-sangchu-geotjeori/"
 ---
