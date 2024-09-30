@@ -20,7 +20,7 @@ Makes 4 servings.
 - 4 or more garlic cloves
 - 4 oz. Parmesan cheese
 - 2 Tbsp. extra-virgin olive oil, plus more drizzling
-- 4.5 oz double-concentrated tomator paste
+- 4.5 oz double-concentrated tomato paste
 - 1/2 tsp. crushed red pepper flakes
 - 2 oz. (1/4 cup) vodka
 - 3/4 cup heavy cream
