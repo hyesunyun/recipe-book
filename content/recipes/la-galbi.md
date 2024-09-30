@@ -7,7 +7,7 @@ draft: false
 time: "9h"
 servings: "4"
 tags: ["beef", "bbq", "korean", "ribs"]
-featured_image: "lagalbi.jpg"
+featured_image: "/lagalbi.jpg"
 source: "https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs/"
 ---
 
