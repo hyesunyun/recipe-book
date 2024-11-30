@@ -27,7 +27,7 @@ Makes about 4 servings.
 - 1 Tbsp gochugaru (고추가루)
 - 3 Tbsp soy sauce
 - 1 Tbsp mirin (맛술)
-- 1/2 Tbsp sweetner (plum syrup or sugar)
+- 1/2 Tbsp sweetener (plum syrup or sugar)
 - 1 Tbsp minced garlic
 - 3 Tbsp chopped scallion/green onions
 - 1 Tbsp sesame oil
