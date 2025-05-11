@@ -6,8 +6,8 @@ date: 2025-05-10T20:25:20-05:00
 draft: false
 time: "45m"
 servings: "2"
-tags: ["korean", "stew"]
-featured_image: "/doenjangjjigae.png"
+tags: ["korean", "stew", "doenjang"]
+featured_image: "/doenjangjjigae.jpg"
 source: "https://www.instagram.com/reel/DFDiXR5OmbP/?igsh=M3ZuZWFzNDF5Z3lt"
 ---
 
