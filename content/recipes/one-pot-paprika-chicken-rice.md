@@ -21,22 +21,22 @@ Makes 4 servings. Adapted from https://simplehomeedit.com/recipe/one-pot-crispy-
 - 1 tbsp dried herbs (oregano, thyme or Italian herb mix)
 - 1 tbsp sweet paprika
 - 1 tsp onion powder
-- ½ tsp smoked paprika
-- ½ tsp cracked black pepper
-- ½ tsp sea salt flakes
+- 1/2 tsp smoked paprika
+- 1/2 tsp cracked black pepper
+- 1/2 tsp sea salt flakes
 - 1 onion, finely diced
 - 4 garlic cloves, finely chopped
 - 2 tbsp tomato paste (concentrated puree)
-- 1½ cups (300 g) white rice (jasmine or basmati)
+- 1.5 cups (300 g) white rice (jasmine or basmati)
 - 3 cups (750 ml) chicken stock
 - Fresh coriander (cilantro) or flat-leaf (Italian) parsley, roughly chopped, to serve (optional)
 
 ### Cucumber Salad
 
 - 3 Lebanese (Persian) cucumbers, finely sliced
-- Juice of ½ lemon
-- ½ tsp sea salt flakes 
-- ½ tsp cracked black pepper 
+- Juice of 1/2 lemon
+- 1/2 tsp sea salt flakes 
+- 1/2 tsp cracked black pepper 
 - 3 tbsp sour cream
 
 ## Directions
