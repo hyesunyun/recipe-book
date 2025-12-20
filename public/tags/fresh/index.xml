@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fresh on Bison&#39;s Recipe Book</title>
+    <link>http://localhost:1313/recipe-book/tags/fresh/</link>
+    <description>Recent content in Fresh on Bison&#39;s Recipe Book</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2025 00:01:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/tags/fresh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Queijo Fresco</title>
+      <link>http://localhost:1313/recipe-book/recipes/queijo-fresco/</link>
+      <pubDate>Tue, 09 Sep 2025 00:01:00 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/queijo-fresco/</guid>
+      <description>Loved by my nug!</description>
+    </item>
+  </channel>
+</rss>

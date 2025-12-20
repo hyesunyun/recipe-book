@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bbq on Bison&#39;s Recipe Book</title>
+    <link>http://localhost:1313/recipe-book/tags/bbq/</link>
+    <description>Recent content in Bbq on Bison&#39;s Recipe Book</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Sep 2024 19:35:45 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/tags/bbq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LA Galbi (Korean BBQ Short Ribs)</title>
+      <link>http://localhost:1313/recipe-book/recipes/la-galbi/</link>
+      <pubDate>Sun, 29 Sep 2024 19:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/la-galbi/</guid>
+      <description>Popular Korean BBQ dish</description>
+    </item>
+  </channel>
+</rss>

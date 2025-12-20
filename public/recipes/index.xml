@@ -2,80 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes on Bison&#39;s Recipe Book</title>
-    <link>https://hyesunyun.github.io/recipe-book/recipes/</link>
+    <link>http://localhost:1313/recipe-book/recipes/</link>
     <description>Recent content in Recipes on Bison&#39;s Recipe Book</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2024 18:35:45 -0500</lastBuildDate>
-    <atom:link href="https://hyesunyun.github.io/recipe-book/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 00:01:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Queijo Fresco</title>
+      <link>http://localhost:1313/recipe-book/recipes/queijo-fresco/</link>
+      <pubDate>Tue, 09 Sep 2025 00:01:00 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/queijo-fresco/</guid>
+      <description>Loved by my nug!</description>
+    </item>
+    <item>
+      <title>One-Pot Paprika Chicken Rice</title>
+      <link>http://localhost:1313/recipe-book/recipes/one-pot-paprika-chicken-rice/</link>
+      <pubDate>Sat, 10 May 2025 20:55:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/one-pot-paprika-chicken-rice/</guid>
+      <description>Simple and delicious</description>
+    </item>
+    <item>
+      <title>Korean Doenjang-jjigae</title>
+      <link>http://localhost:1313/recipe-book/recipes/doenjangjjigae/</link>
+      <pubDate>Sat, 10 May 2025 20:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/doenjangjjigae/</guid>
+      <description>Fermented Soybean Paste Stew</description>
+    </item>
+    <item>
+      <title>Cranberry Brie Bites</title>
+      <link>http://localhost:1313/recipe-book/recipes/cranberry-brie-bites/</link>
+      <pubDate>Sat, 30 Nov 2024 11:40:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/cranberry-brie-bites/</guid>
+      <description>super easy but beautiful appetizer</description>
+    </item>
+    <item>
+      <title>Pigs in a Blanket</title>
+      <link>http://localhost:1313/recipe-book/recipes/pigs-in-a-blanket/</link>
+      <pubDate>Sat, 30 Nov 2024 11:40:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/pigs-in-a-blanket/</guid>
+      <description>crowd-pleasing, easy appetizer</description>
+    </item>
+    <item>
+      <title>Milk Tart</title>
+      <link>http://localhost:1313/recipe-book/recipes/milk-tart/</link>
+      <pubDate>Sat, 30 Nov 2024 11:30:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/milk-tart/</guid>
+      <description>melktert: creamy with flaky crust</description>
+    </item>
+    <item>
+      <title>Sujeongwa</title>
+      <link>http://localhost:1313/recipe-book/recipes/sujeonggwa/</link>
+      <pubDate>Sat, 30 Nov 2024 11:26:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/sujeonggwa/</guid>
+      <description>Korean dessert punch/tea</description>
+    </item>
+    <item>
+      <title>Sweet Potato Casserole</title>
+      <link>http://localhost:1313/recipe-book/recipes/sweet-potato-casserole/</link>
+      <pubDate>Sat, 30 Nov 2024 11:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/sweet-potato-casserole/</guid>
+      <description>with pecans and marshmallows</description>
+    </item>
+    <item>
+      <title>LA Galbi (Korean BBQ Short Ribs)</title>
+      <link>http://localhost:1313/recipe-book/recipes/la-galbi/</link>
+      <pubDate>Sun, 29 Sep 2024 19:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/la-galbi/</guid>
+      <description>Popular Korean BBQ dish</description>
+    </item>
+    <item>
+      <title>Korean Lettuce Salad</title>
+      <link>http://localhost:1313/recipe-book/recipes/korean-lettuce-salad/</link>
+      <pubDate>Sun, 29 Sep 2024 18:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-lettuce-salad/</guid>
+      <description>fresh, crisp lettuce with slightly spicy salad</description>
+    </item>
+    <item>
+      <title>Korean Doenjang Cabbage</title>
+      <link>http://localhost:1313/recipe-book/recipes/korean-miso-cabbage/</link>
+      <pubDate>Thu, 04 Jul 2024 13:55:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-miso-cabbage/</guid>
+      <description>Super simple napa cabbage dish</description>
+    </item>
+    <item>
+      <title>Korean Spicy Braised Tofu</title>
+      <link>http://localhost:1313/recipe-book/recipes/korean-spicy-braised-tofu/</link>
+      <pubDate>Thu, 04 Jul 2024 13:50:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-spicy-braised-tofu/</guid>
+      <description>Super easy weekday tofu side dish</description>
+    </item>
     <item>
       <title>Vodka Sauce</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/vodka-sauce/</link>
+      <link>http://localhost:1313/recipe-book/recipes/vodka-sauce/</link>
       <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/vodka-sauce/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/vodka-sauce/</guid>
       <description>Vodka Sauce with Rigatoni (option to add sausage)</description>
     </item>
     <item>
       <title>Korean Army Base Stew</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/budaejjigae/</link>
+      <link>http://localhost:1313/recipe-book/recipes/budaejjigae/</link>
       <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/budaejjigae/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/budaejjigae/</guid>
       <description>Spam and Sausage and much yummy things</description>
     </item>
     <item>
       <title>Korean Kimchi Pancake</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/easy-korean-kimchi-pancake/</link>
+      <link>http://localhost:1313/recipe-book/recipes/easy-korean-kimchi-pancake/</link>
       <pubDate>Sun, 21 Apr 2024 20:14:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/easy-korean-kimchi-pancake/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/easy-korean-kimchi-pancake/</guid>
       <description>Uses Korean pancake mix</description>
     </item>
     <item>
       <title>Korean Spicy Braised Short Ribs</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/korean-spicy-braised-short-ribs/</link>
+      <link>http://localhost:1313/recipe-book/recipes/korean-spicy-braised-short-ribs/</link>
       <pubDate>Sun, 21 Apr 2024 19:50:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/korean-spicy-braised-short-ribs/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-spicy-braised-short-ribs/</guid>
       <description>A spicy version of the famous dish</description>
     </item>
     <item>
       <title>Tuna Kimchi Jjigae</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/tuna-kimchi-jjigae/</link>
+      <link>http://localhost:1313/recipe-book/recipes/tuna-kimchi-jjigae/</link>
       <pubDate>Sun, 29 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/tuna-kimchi-jjigae/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/tuna-kimchi-jjigae/</guid>
       <description>Kimchi stew made with special tuna</description>
     </item>
     <item>
       <title>Peanut Sauce for Spring Rolls</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</link>
+      <link>http://localhost:1313/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</link>
       <pubDate>Fri, 27 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</guid>
       <description>Delicious sauce for Vietnamese fresh spring rolls</description>
     </item>
     <item>
       <title>Crispy Baked Tofu</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</link>
+      <link>http://localhost:1313/recipe-book/recipes/crispy-baked-tofu/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/crispy-baked-tofu/</guid>
       <description>Crispy baked tofu to add as a side dish</description>
     </item>
     <item>
       <title>Strawberry Lemonade Bars</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/strawberry-lemonade-bar/</link>
+      <link>http://localhost:1313/recipe-book/recipes/strawberry-lemonade-bar/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/strawberry-lemonade-bar/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/strawberry-lemonade-bar/</guid>
       <description>Refreshing, easy dessert</description>
     </item>
     <item>
       <title>Easy Korean Seafood Scallion Pancake</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/easy-korean-seafood-scallion-pancake/</link>
+      <link>http://localhost:1313/recipe-book/recipes/easy-korean-seafood-scallion-pancake/</link>
       <pubDate>Sat, 14 Jan 2023 10:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/easy-korean-seafood-scallion-pancake/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/easy-korean-seafood-scallion-pancake/</guid>
       <description>Uses Korean pancake mix</description>
     </item>
     <item>
       <title>NYT Red Lentil Soup</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/red-lentil-soup/</link>
+      <link>http://localhost:1313/recipe-book/recipes/red-lentil-soup/</link>
       <pubDate>Fri, 13 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/red-lentil-soup/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/red-lentil-soup/</guid>
       <description>Based on a Turkish lentil soup, mercimek corbasi</description>
     </item>
   </channel>

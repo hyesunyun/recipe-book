@@ -2,178 +2,283 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bison&#39;s Recipe Book</title>
-    <link>https://hyesunyun.github.io/recipe-book/tags/</link>
+    <link>http://localhost:1313/recipe-book/tags/</link>
     <description>Recent content in Tags on Bison&#39;s Recipe Book</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2024 18:35:45 -0500</lastBuildDate>
-    <atom:link href="https://hyesunyun.github.io/recipe-book/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 00:01:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>easy</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/easy/</link>
+      <title>Cheese</title>
+      <link>http://localhost:1313/recipe-book/tags/cheese/</link>
+      <pubDate>Tue, 09 Sep 2025 00:01:00 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/cheese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fresh</title>
+      <link>http://localhost:1313/recipe-book/tags/fresh/</link>
+      <pubDate>Tue, 09 Sep 2025 00:01:00 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/fresh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portuguese</title>
+      <link>http://localhost:1313/recipe-book/tags/portuguese/</link>
+      <pubDate>Tue, 09 Sep 2025 00:01:00 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/portuguese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chicken</title>
+      <link>http://localhost:1313/recipe-book/tags/chicken/</link>
+      <pubDate>Sat, 10 May 2025 20:55:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/chicken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Pot</title>
+      <link>http://localhost:1313/recipe-book/tags/one-pot/</link>
+      <pubDate>Sat, 10 May 2025 20:55:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/one-pot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rice</title>
+      <link>http://localhost:1313/recipe-book/tags/rice/</link>
+      <pubDate>Sat, 10 May 2025 20:55:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/rice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doenjang</title>
+      <link>http://localhost:1313/recipe-book/tags/doenjang/</link>
+      <pubDate>Sat, 10 May 2025 20:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/doenjang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korean</title>
+      <link>http://localhost:1313/recipe-book/tags/korean/</link>
+      <pubDate>Sat, 10 May 2025 20:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/korean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stew</title>
+      <link>http://localhost:1313/recipe-book/tags/stew/</link>
+      <pubDate>Sat, 10 May 2025 20:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/stew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Appetizer</title>
+      <link>http://localhost:1313/recipe-book/tags/appetizer/</link>
+      <pubDate>Sat, 30 Nov 2024 11:40:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/appetizer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sausage</title>
+      <link>http://localhost:1313/recipe-book/tags/sausage/</link>
+      <pubDate>Sat, 30 Nov 2024 11:40:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/sausage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessert</title>
+      <link>http://localhost:1313/recipe-book/tags/dessert/</link>
+      <pubDate>Sat, 30 Nov 2024 11:30:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/dessert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>South African</title>
+      <link>http://localhost:1313/recipe-book/tags/south-african/</link>
+      <pubDate>Sat, 30 Nov 2024 11:30:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/south-african/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sweet Potato</title>
+      <link>http://localhost:1313/recipe-book/tags/sweet-potato/</link>
+      <pubDate>Sat, 30 Nov 2024 11:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/sweet-potato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thanksgiving</title>
+      <link>http://localhost:1313/recipe-book/tags/thanksgiving/</link>
+      <pubDate>Sat, 30 Nov 2024 11:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/thanksgiving/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetarian</title>
+      <link>http://localhost:1313/recipe-book/tags/vegetarian/</link>
+      <pubDate>Sat, 30 Nov 2024 11:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bbq</title>
+      <link>http://localhost:1313/recipe-book/tags/bbq/</link>
+      <pubDate>Sun, 29 Sep 2024 19:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/bbq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beef</title>
+      <link>http://localhost:1313/recipe-book/tags/beef/</link>
+      <pubDate>Sun, 29 Sep 2024 19:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/beef/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ribs</title>
+      <link>http://localhost:1313/recipe-book/tags/ribs/</link>
+      <pubDate>Sun, 29 Sep 2024 19:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/ribs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salad</title>
+      <link>http://localhost:1313/recipe-book/tags/salad/</link>
+      <pubDate>Sun, 29 Sep 2024 18:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/salad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spicy</title>
+      <link>http://localhost:1313/recipe-book/tags/spicy/</link>
+      <pubDate>Sun, 29 Sep 2024 18:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/spicy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegan</title>
+      <link>http://localhost:1313/recipe-book/tags/vegan/</link>
+      <pubDate>Sun, 29 Sep 2024 18:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/vegan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cabbage</title>
+      <link>http://localhost:1313/recipe-book/tags/cabbage/</link>
+      <pubDate>Thu, 04 Jul 2024 13:55:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/cabbage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tofu</title>
+      <link>http://localhost:1313/recipe-book/tags/tofu/</link>
+      <pubDate>Thu, 04 Jul 2024 13:50:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/tags/tofu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Easy</title>
+      <link>http://localhost:1313/recipe-book/tags/easy/</link>
       <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/easy/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/easy/</guid>
       <description></description>
     </item>
     <item>
-      <title>pasta</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/pasta/</link>
+      <title>Pasta</title>
+      <link>http://localhost:1313/recipe-book/tags/pasta/</link>
       <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/pasta/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/pasta/</guid>
       <description></description>
     </item>
     <item>
-      <title>vegetarian</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/vegetarian/</link>
-      <pubDate>Mon, 22 Apr 2024 18:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/vegetarian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>korean</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/korean/</link>
+      <title>Spam</title>
+      <link>http://localhost:1313/recipe-book/tags/spam/</link>
       <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/korean/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/spam/</guid>
       <description></description>
     </item>
     <item>
-      <title>spam</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/spam/</link>
-      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/spam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>spicy</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/spicy/</link>
-      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/spicy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>stew</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/stew/</link>
-      <pubDate>Sun, 21 Apr 2024 20:25:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/stew/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>kimchi</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/kimchi/</link>
+      <title>Kimchi</title>
+      <link>http://localhost:1313/recipe-book/tags/kimchi/</link>
       <pubDate>Sun, 21 Apr 2024 20:14:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/kimchi/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/kimchi/</guid>
       <description></description>
     </item>
     <item>
-      <title>pancake</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/pancake/</link>
+      <title>Pancake</title>
+      <link>http://localhost:1313/recipe-book/tags/pancake/</link>
       <pubDate>Sun, 21 Apr 2024 20:14:20 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/pancake/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/pancake/</guid>
       <description></description>
     </item>
     <item>
-      <title>beef</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/beef/</link>
-      <pubDate>Sun, 21 Apr 2024 19:50:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/beef/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ribs</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/ribs/</link>
-      <pubDate>Sun, 21 Apr 2024 19:50:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/ribs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>peanut</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/peanut/</link>
+      <title>Peanut</title>
+      <link>http://localhost:1313/recipe-book/tags/peanut/</link>
       <pubDate>Fri, 27 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/peanut/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/peanut/</guid>
       <description></description>
     </item>
     <item>
-      <title>sauce</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/sauce/</link>
+      <title>Sauce</title>
+      <link>http://localhost:1313/recipe-book/tags/sauce/</link>
       <pubDate>Fri, 27 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/sauce/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/sauce/</guid>
       <description></description>
     </item>
     <item>
-      <title>bars</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/bars/</link>
+      <title>Bars</title>
+      <link>http://localhost:1313/recipe-book/tags/bars/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/bars/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/bars/</guid>
       <description></description>
     </item>
     <item>
-      <title>dessert</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/dessert/</link>
+      <title>Lemon</title>
+      <link>http://localhost:1313/recipe-book/tags/lemon/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/dessert/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/lemon/</guid>
       <description></description>
     </item>
     <item>
-      <title>lemon</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/lemon/</link>
+      <title>Oven</title>
+      <link>http://localhost:1313/recipe-book/tags/oven/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/lemon/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/oven/</guid>
       <description></description>
     </item>
     <item>
-      <title>oven</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/oven/</link>
+      <title>Strawberry</title>
+      <link>http://localhost:1313/recipe-book/tags/strawberry/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/oven/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/strawberry/</guid>
       <description></description>
     </item>
     <item>
-      <title>strawberry</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/strawberry/</link>
-      <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/strawberry/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>tofu</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/tofu/</link>
-      <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/tofu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>vegan</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/vegan/</link>
-      <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/vegan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>seafood</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/seafood/</link>
+      <title>Seafood</title>
+      <link>http://localhost:1313/recipe-book/tags/seafood/</link>
       <pubDate>Sat, 14 Jan 2023 10:35:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/seafood/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/seafood/</guid>
       <description></description>
     </item>
     <item>
-      <title>lentil</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/lentil/</link>
+      <title>Lentil</title>
+      <link>http://localhost:1313/recipe-book/tags/lentil/</link>
       <pubDate>Fri, 13 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/lentil/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/lentil/</guid>
       <description></description>
     </item>
     <item>
-      <title>nyt</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/nyt/</link>
+      <title>Nyt</title>
+      <link>http://localhost:1313/recipe-book/tags/nyt/</link>
       <pubDate>Fri, 13 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/nyt/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/nyt/</guid>
       <description></description>
     </item>
     <item>
-      <title>soup</title>
-      <link>https://hyesunyun.github.io/recipe-book/tags/soup/</link>
+      <title>Soup</title>
+      <link>http://localhost:1313/recipe-book/tags/soup/</link>
       <pubDate>Fri, 13 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/tags/soup/</guid>
+      <guid>http://localhost:1313/recipe-book/tags/soup/</guid>
       <description></description>
     </item>
   </channel>

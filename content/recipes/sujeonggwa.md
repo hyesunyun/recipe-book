@@ -17,7 +17,7 @@ source: "https://m.blog.naver.com/hiwool/223395871429"
 - 85g cinnamon (whole - bark)
 - 60g ginger
 - 350g dark brown sugar
-- pine nutes and dried persimmons for serving (OPTIONAL)
+- pine nuts and dried persimmons for serving (OPTIONAL)
 
 ## Directions
 
@@ -27,4 +27,4 @@ source: "https://m.blog.naver.com/hiwool/223395871429"
 4. Add the dark brown sugar and let it boil.
 5. Strain the liquid to get rid of the cinnamon and ginger.
 6. Cool and store in bottles. 
-7. You can serve it hot or cold. Add pine nuts and dried persimmons as toppings but not necessary.
+7. You can serve it hot or cold. Optional: add pine nuts and dried persimmons as toppings.

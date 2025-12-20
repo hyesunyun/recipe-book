@@ -1,25 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vegan on Bison&#39;s Recipe Book</title>
-    <link>https://hyesunyun.github.io/recipe-book/tags/vegan/</link>
-    <description>Recent content in vegan on Bison&#39;s Recipe Book</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Vegan on Bison&#39;s Recipe Book</title>
+    <link>http://localhost:1313/recipe-book/tags/vegan/</link>
+    <description>Recent content in Vegan on Bison&#39;s Recipe Book</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jan 2023 23:11:45 -0500</lastBuildDate>
-    <atom:link href="https://hyesunyun.github.io/recipe-book/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2024 18:35:45 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Korean Lettuce Salad</title>
+      <link>http://localhost:1313/recipe-book/recipes/korean-lettuce-salad/</link>
+      <pubDate>Sun, 29 Sep 2024 18:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-lettuce-salad/</guid>
+      <description>fresh, crisp lettuce with slightly spicy salad</description>
+    </item>
+    <item>
+      <title>Korean Doenjang Cabbage</title>
+      <link>http://localhost:1313/recipe-book/recipes/korean-miso-cabbage/</link>
+      <pubDate>Thu, 04 Jul 2024 13:55:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-miso-cabbage/</guid>
+      <description>Super simple napa cabbage dish</description>
+    </item>
+    <item>
+      <title>Korean Spicy Braised Tofu</title>
+      <link>http://localhost:1313/recipe-book/recipes/korean-spicy-braised-tofu/</link>
+      <pubDate>Thu, 04 Jul 2024 13:50:45 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/korean-spicy-braised-tofu/</guid>
+      <description>Super easy weekday tofu side dish</description>
+    </item>
     <item>
       <title>Crispy Baked Tofu</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</link>
+      <link>http://localhost:1313/recipe-book/recipes/crispy-baked-tofu/</link>
       <pubDate>Sat, 21 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/crispy-baked-tofu/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/crispy-baked-tofu/</guid>
       <description>Crispy baked tofu to add as a side dish</description>
     </item>
     <item>
       <title>NYT Red Lentil Soup</title>
-      <link>https://hyesunyun.github.io/recipe-book/recipes/red-lentil-soup/</link>
+      <link>http://localhost:1313/recipe-book/recipes/red-lentil-soup/</link>
       <pubDate>Fri, 13 Jan 2023 23:11:45 -0500</pubDate>
-      <guid>https://hyesunyun.github.io/recipe-book/recipes/red-lentil-soup/</guid>
+      <guid>http://localhost:1313/recipe-book/recipes/red-lentil-soup/</guid>
       <description>Based on a Turkish lentil soup, mercimek corbasi</description>
     </item>
   </channel>

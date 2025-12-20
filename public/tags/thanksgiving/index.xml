@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thanksgiving on Bison&#39;s Recipe Book</title>
+    <link>http://localhost:1313/recipe-book/tags/thanksgiving/</link>
+    <description>Recent content in Thanksgiving on Bison&#39;s Recipe Book</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 11:25:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/tags/thanksgiving/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sweet Potato Casserole</title>
+      <link>http://localhost:1313/recipe-book/recipes/sweet-potato-casserole/</link>
+      <pubDate>Sat, 30 Nov 2024 11:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/sweet-potato-casserole/</guid>
+      <description>with pecans and marshmallows</description>
+    </item>
+  </channel>
+</rss>

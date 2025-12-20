@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appetizer on Bison&#39;s Recipe Book</title>
+    <link>http://localhost:1313/recipe-book/tags/appetizer/</link>
+    <description>Recent content in Appetizer on Bison&#39;s Recipe Book</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 11:40:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipe-book/tags/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cranberry Brie Bites</title>
+      <link>http://localhost:1313/recipe-book/recipes/cranberry-brie-bites/</link>
+      <pubDate>Sat, 30 Nov 2024 11:40:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/cranberry-brie-bites/</guid>
+      <description>super easy but beautiful appetizer</description>
+    </item>
+    <item>
+      <title>Pigs in a Blanket</title>
+      <link>http://localhost:1313/recipe-book/recipes/pigs-in-a-blanket/</link>
+      <pubDate>Sat, 30 Nov 2024 11:40:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/pigs-in-a-blanket/</guid>
+      <description>crowd-pleasing, easy appetizer</description>
+    </item>
+  </channel>
+</rss>
