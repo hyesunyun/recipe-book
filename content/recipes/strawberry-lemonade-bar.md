@@ -6,7 +6,7 @@ date: 2023-01-21T23:11:45-05:00
 draft: false
 time: "60m"
 servings: "24"
-tags: ["bars", "strawberry", "lemon", "dessert"]
+tags: ["bars", "strawberry", "lemon", "dessert", "oven"]
 featured_image: "/strawberrylemonadebar.jpeg"
 source: "https://sugarapron.com/2021/02/20/strawberry-lemonade-bars/"
 ---

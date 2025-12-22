@@ -3,10 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/recipe-book/</loc>
-    <lastmod>2025-09-09T00:01:00-05:00</lastmod>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/korea/</loc>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/</loc>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/rice/</loc>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/spicy/</loc>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/</loc>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/tteokbokki/</loc>
+    <lastmod>2025-12-22T14:45:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/baked-mac-cheese/</loc>
+    <lastmod>2025-12-22T14:20:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/cheese/</loc>
-    <lastmod>2025-09-09T00:01:00-05:00</lastmod>
+    <lastmod>2025-12-22T14:20:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/oven/</loc>
+    <lastmod>2025-12-22T14:20:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/vegetarian/</loc>
+    <lastmod>2025-12-22T14:20:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/coconut/</loc>
+    <lastmod>2025-12-22T14:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/coconut-poached-fish/</loc>
+    <lastmod>2025-12-22T14:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/fish/</loc>
+    <lastmod>2025-12-22T14:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/thai/</loc>
+    <lastmod>2025-12-22T14:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/blueberry/</loc>
+    <lastmod>2025-12-22T14:00:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/cake/</loc>
+    <lastmod>2025-12-22T14:00:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/dessert/</loc>
+    <lastmod>2025-12-22T14:00:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/blueberry-cake/</loc>
+    <lastmod>2025-12-22T14:00:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/gluten-free/</loc>
+    <lastmod>2025-12-22T13:25:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/lemon-polenta-cake/</loc>
+    <lastmod>2025-12-22T13:25:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/chicken/</loc>
+    <lastmod>2025-12-22T12:15:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/noodle/</loc>
+    <lastmod>2025-12-22T12:15:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/peanut/</loc>
+    <lastmod>2025-12-22T12:15:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/salad/</loc>
+    <lastmod>2025-12-22T12:15:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/spicy-peanut-soba-noodle-salad/</loc>
+    <lastmod>2025-12-22T12:15:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/appetizer/</loc>
+    <lastmod>2025-12-22T12:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/british/</loc>
+    <lastmod>2025-12-22T12:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/pork/</loc>
+    <lastmod>2025-12-22T12:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/pork-sausage-rolls/</loc>
+    <lastmod>2025-12-22T12:10:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/custard/</loc>
+    <lastmod>2025-12-22T11:50:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/egg/</loc>
+    <lastmod>2025-12-22T11:50:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/bread/</loc>
+    <lastmod>2025-12-22T11:30:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/corn/</loc>
+    <lastmod>2025-12-22T11:30:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/recipes/mealie-bread/</loc>
+    <lastmod>2025-12-22T11:30:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipe-book/tags/south-african/</loc>
+    <lastmod>2025-12-22T11:30:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/fresh/</loc>
     <lastmod>2025-09-09T00:01:00-05:00</lastmod>
@@ -17,22 +119,10 @@
     <loc>http://localhost:1313/recipe-book/recipes/queijo-fresco/</loc>
     <lastmod>2025-09-09T00:01:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/recipes/</loc>
-    <lastmod>2025-09-09T00:01:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/</loc>
-    <lastmod>2025-09-09T00:01:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/chicken/</loc>
-    <lastmod>2025-05-10T20:55:20-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipe-book/tags/one-pot/</loc>
     <lastmod>2025-05-10T20:55:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/recipes/one-pot-paprika-chicken-rice/</loc>
-    <lastmod>2025-05-10T20:55:20-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/rice/</loc>
     <lastmod>2025-05-10T20:55:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/doenjang/</loc>
@@ -47,9 +137,6 @@
     <loc>http://localhost:1313/recipe-book/tags/stew/</loc>
     <lastmod>2025-05-10T20:25:20-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/appetizer/</loc>
-    <lastmod>2024-11-30T11:40:20-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipe-book/recipes/cranberry-brie-bites/</loc>
     <lastmod>2024-11-30T11:40:20-05:00</lastmod>
   </url><url>
@@ -59,13 +146,7 @@
     <loc>http://localhost:1313/recipe-book/tags/sausage/</loc>
     <lastmod>2024-11-30T11:40:20-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/dessert/</loc>
-    <lastmod>2024-11-30T11:30:20-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipe-book/recipes/milk-tart/</loc>
-    <lastmod>2024-11-30T11:30:20-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/south-african/</loc>
     <lastmod>2024-11-30T11:30:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/recipes/sujeonggwa/</loc>
@@ -78,9 +159,6 @@
     <lastmod>2024-11-30T11:25:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/thanksgiving/</loc>
-    <lastmod>2024-11-30T11:25:20-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/vegetarian/</loc>
     <lastmod>2024-11-30T11:25:20-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/bbq/</loc>
@@ -96,12 +174,6 @@
     <lastmod>2024-09-29T19:35:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/recipes/korean-lettuce-salad/</loc>
-    <lastmod>2024-09-29T18:35:45-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/salad/</loc>
-    <lastmod>2024-09-29T18:35:45-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/spicy/</loc>
     <lastmod>2024-09-29T18:35:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/vegan/</loc>
@@ -149,9 +221,6 @@
     <loc>http://localhost:1313/recipe-book/recipes/tuna-kimchi-jjigae/</loc>
     <lastmod>2023-01-29T23:11:45-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/peanut/</loc>
-    <lastmod>2023-01-27T23:11:45-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipe-book/recipes/peanut-sauce-for-fresh-rolls/</loc>
     <lastmod>2023-01-27T23:11:45-05:00</lastmod>
   </url><url>
@@ -165,9 +234,6 @@
     <lastmod>2023-01-21T23:11:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/lemon/</loc>
-    <lastmod>2023-01-21T23:11:45-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipe-book/tags/oven/</loc>
     <lastmod>2023-01-21T23:11:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipe-book/tags/strawberry/</loc>

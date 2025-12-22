@@ -6,8 +6,71 @@
     <description>Recent content in Recipes on Bison&#39;s Recipe Book</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Sep 2025 00:01:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 14:45:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/recipe-book/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tteokbokki</title>
+      <link>http://localhost:1313/recipe-book/recipes/tteokbokki/</link>
+      <pubDate>Mon, 22 Dec 2025 14:45:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/tteokbokki/</guid>
+      <description>Popular Korean street food</description>
+    </item>
+    <item>
+      <title>Baked Mac and Cheese</title>
+      <link>http://localhost:1313/recipe-book/recipes/baked-mac-cheese/</link>
+      <pubDate>Mon, 22 Dec 2025 14:20:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/baked-mac-cheese/</guid>
+      <description>classic dish loved by adults and children</description>
+    </item>
+    <item>
+      <title>Coconut Poached Fish</title>
+      <link>http://localhost:1313/recipe-book/recipes/coconut-poached-fish/</link>
+      <pubDate>Mon, 22 Dec 2025 14:10:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/coconut-poached-fish/</guid>
+      <description>Quick dish great with rice</description>
+    </item>
+    <item>
+      <title>Easy Blueberry Cake</title>
+      <link>http://localhost:1313/recipe-book/recipes/blueberry-cake/</link>
+      <pubDate>Mon, 22 Dec 2025 14:00:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/blueberry-cake/</guid>
+      <description>Perfect cake for dessert or brunch</description>
+    </item>
+    <item>
+      <title>Lemon Polenta Cake</title>
+      <link>http://localhost:1313/recipe-book/recipes/lemon-polenta-cake/</link>
+      <pubDate>Mon, 22 Dec 2025 13:25:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/lemon-polenta-cake/</guid>
+      <description>gluten free cake</description>
+    </item>
+    <item>
+      <title>Spicy Peanut Soba Salad</title>
+      <link>http://localhost:1313/recipe-book/recipes/spicy-peanut-soba-noodle-salad/</link>
+      <pubDate>Mon, 22 Dec 2025 12:15:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/spicy-peanut-soba-noodle-salad/</guid>
+      <description>filling and full of veggies</description>
+    </item>
+    <item>
+      <title>Sausage Rolls</title>
+      <link>http://localhost:1313/recipe-book/recipes/pork-sausage-rolls/</link>
+      <pubDate>Mon, 22 Dec 2025 12:10:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/pork-sausage-rolls/</guid>
+      <description>classic British snack/app</description>
+    </item>
+    <item>
+      <title>Custard</title>
+      <link>http://localhost:1313/recipe-book/recipes/custard/</link>
+      <pubDate>Mon, 22 Dec 2025 11:50:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/custard/</guid>
+      <description>classic dessert on saucepan</description>
+    </item>
+    <item>
+      <title>Mealie Bread</title>
+      <link>http://localhost:1313/recipe-book/recipes/mealie-bread/</link>
+      <pubDate>Mon, 22 Dec 2025 11:30:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/mealie-bread/</guid>
+      <description>flour bread with corn</description>
+    </item>
     <item>
       <title>Queijo Fresco</title>
       <link>http://localhost:1313/recipe-book/recipes/queijo-fresco/</link>

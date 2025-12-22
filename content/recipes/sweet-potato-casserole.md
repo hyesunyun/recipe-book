@@ -6,7 +6,7 @@ date: 2024-11-30T11:25:20-05:00
 draft: false
 time: "45m"
 servings: "16"
-tags: ["thanksgiving", "sweet potato", "vegetarian"]
+tags: ["thanksgiving", "sweet potato", "vegetarian", "oven"]
 featured_image: "/sweetpotatocasserole.jpg"
 source: "https://www.spendwithpennies.com/sweet-potato-casserole/"
 ---
@@ -31,7 +31,7 @@ source: "https://www.spendwithpennies.com/sweet-potato-casserole/"
 5. Sprinkle with the marshmallows and the remaining pecans.
 6. Bake for 25 minutes or until marshmallows are golden brown and potatoes are heated through.
 
-**Note**
+## Notes
 - Light or dark brown sugar can be used.
 - If using unsalted butter, add extra salt if needed.
 - This can be made up to 48 hours ahead of time.

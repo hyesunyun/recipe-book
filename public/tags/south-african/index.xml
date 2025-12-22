@@ -6,8 +6,15 @@
     <description>Recent content in South African on Bison&#39;s Recipe Book</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2024 11:30:20 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 11:30:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/recipe-book/tags/south-african/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mealie Bread</title>
+      <link>http://localhost:1313/recipe-book/recipes/mealie-bread/</link>
+      <pubDate>Mon, 22 Dec 2025 11:30:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/mealie-bread/</guid>
+      <description>flour bread with corn</description>
+    </item>
     <item>
       <title>Milk Tart</title>
       <link>http://localhost:1313/recipe-book/recipes/milk-tart/</link>

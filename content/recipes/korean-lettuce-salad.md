@@ -34,7 +34,7 @@ Makes 4 servings.
 2. Dressing: In a small bowl, mix together soy sauce, rice wine vinegar, gochugaru, sesame oil, sesame seeds, sugar (or plum syrup), and garlic. Taste and adjust the gochugaru, vinegar, and sugar to your preference.
 3. Toss: In a large bowl, toss the lettuce and carrots with the dressing and serve immediately.
 
-**Recipe Notes**
+## Notes
 
 Makes about 1/4 cup of dressing. Adjust the serving size to increase the amount.
 

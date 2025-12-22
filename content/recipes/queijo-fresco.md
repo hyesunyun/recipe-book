@@ -4,7 +4,7 @@ description: "Portuguese Fresh Cheese"
 summary: "Loved by my nug!"
 date: 2025-09-09T00:01:00-05:00
 draft: false
-time: "3days"
+time: "3 days"
 servings: "4in. cheese"
 tags: ["cheese", "fresh", "portuguese"]
 featured_image: "/queijofresco.jpg"

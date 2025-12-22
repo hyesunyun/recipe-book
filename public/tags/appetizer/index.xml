@@ -6,8 +6,15 @@
     <description>Recent content in Appetizer on Bison&#39;s Recipe Book</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2024 11:40:20 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 12:10:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/recipe-book/tags/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sausage Rolls</title>
+      <link>http://localhost:1313/recipe-book/recipes/pork-sausage-rolls/</link>
+      <pubDate>Mon, 22 Dec 2025 12:10:20 -0500</pubDate>
+      <guid>http://localhost:1313/recipe-book/recipes/pork-sausage-rolls/</guid>
+      <description>classic British snack/app</description>
+    </item>
     <item>
       <title>Cranberry Brie Bites</title>
       <link>http://localhost:1313/recipe-book/recipes/cranberry-brie-bites/</link>
