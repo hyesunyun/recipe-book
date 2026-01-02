@@ -20,7 +20,9 @@ Can also make for four 4in. cheese forms.
 - 4 cups of whole milk (do not use Ultra Pasteurized Milk)
 - 1/2 tsp of powdered rennet
 - salt to taste
+
 **For four 4" cheese forms**
+
 - 1 Gallon of whole milk (do not use Ultra Pasteurized Milk)
 - 2 tsp of powered rennet
 - salt to taste 
